@@ -1,2 +1,3 @@
 # wisdom
-a man's real asset is his mindset
+# a man's real asset is his mindset
+git
